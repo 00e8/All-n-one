@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Secrets / environment
+.env
+.env.*
+
+# Database files (SQLite music db + WAL/SHM sidecar files)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Command registration cache
+src/.command_hash
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

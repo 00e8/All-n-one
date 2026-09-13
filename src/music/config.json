@@ -1,0 +1,29 @@
+{
+  "node_source": "spsearch",
+  "spotifyId": "85aab1d51a174aad9eed6d7989f530e6",
+  "spotifySecret": "b2ad05aa725e434c88776a1be8eab6c",
+  "LastFmKey": "892ec4bdf3b1ea3aa74353988aaa4ee1",
+  "Webhooks": {
+    "player_create": "",
+    "player_delete": ""
+  },
+  "nodes": [
+    {
+      "name": "us",
+      "url": "",
+      "auth": "isaa",
+      "secure": false
+    }
+  ],
+  "node_options": {
+    "moveOnDisconnect": true,
+    "resume": true,
+    "resumeTimeout": 10,
+    "resumeByLibrary": true,
+    "reconnectTries": 3,
+    "reconnectInterval": 1,
+    "restTimeout": 5000,
+    "voiceConnectionTimeout": 5000,
+    "userAgent": "hana"
+  }
+}
