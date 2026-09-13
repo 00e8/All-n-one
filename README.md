@@ -1,11 +1,11 @@
 <div align="center">
 
-# shutup
+# й
 
 A feature-rich, open source multipurpose Discord bot built with Discord.js v14.
 Designed for server protection, community management, AI chat, and automation.
 
-[![Discord](https://img.shields.io/discord/1414217749038891102?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.gg/shutup)
+[![Discord](https://img.shields.io/discord/1414217749038891102?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.gg/masr)
 
 </div>
 
@@ -13,7 +13,7 @@ Designed for server protection, community management, AI chat, and automation.
 
 ## Overview
 
-shutup is a fully self-hostable, open source multipurpose Discord bot engineered to replace the need for several bots in a single server. It supports both **prefix commands** (default: `,`) and **slash commands** through a unified hybrid command system. Persistent data is stored in a **PostgreSQL** database via Sequelize ORM, and every feature is configurable on a per-server basis through setup commands.
+й is a fully self-hostable, open source multipurpose Discord bot engineered to replace the need for several bots in a single server. It supports both **prefix commands** (default: `,`) and **slash commands** through a unified hybrid command system. Persistent data is stored in a **PostgreSQL** database via Sequelize ORM, and every feature is configurable on a per-server basis through setup commands.
 
 ---
 
@@ -50,7 +50,7 @@ A comprehensive server audit trail.
 - Fully configurable log channel routing per event type
 
 ### AI Integration
-A built-in conversational AI assistant named shutup.
+A built-in conversational AI assistant named й.
 
 - Powered by **Groq API** for fast language model responses
 - Image analysis via **Gemini Vision API**
@@ -133,9 +133,9 @@ npm start
 
 ## Emoji Synchronisation
 
-shutup uses **application emojis** — emojis uploaded directly to the bot's Discord application — so they are available globally across every server without requiring a dedicated emoji server.
+й uses **application emojis** — emojis uploaded directly to the bot's Discord application — so they are available globally across every server without requiring a dedicated emoji server.
 
-On first start, if a `tempassets/` folder is present in the project root containing emoji images (`.webp` for static, `.gif` for animated), shutup automatically:
+On first start, if a `tempassets/` folder is present in the project root containing emoji images (`.webp` for static, `.gif` for animated), й automatically:
 
 1. Uploads every image to the bot's application emojis via the Discord API
 2. Updates `src/emojis.json` with the new emoji IDs
@@ -226,8 +226,8 @@ src/
 
 ## Credits
 
-**Developer** — [ ](https://github.com/ ) (Aegis)  
-**Organisation** — [HYZEX Development](https://github.com/shutupDevs)
+**Developer** — [ ](https://github.com/ ) (й)  
+**Organisation** — [HYZEX Development](https://github.com/)
 
 ---
 
@@ -235,13 +235,13 @@ src/
 
 Join the HYZEX Development Discord server for help, updates, and community support.
 
-**[discord.gg/shutup](https://discord.gg/shutup)**
+**[discord.gg/й](https://discord.gg/masr)**
 
 ---
 
 <div align="center">
 
-© 2026 nunu.58 (shutup) — HYZEX Development. All rights reserved.  
+© 2026 nunu.58 (й) — HYZEX Development. All rights reserved.  
 See [LICENSE](./LICENSE) for usage terms.
 
 </div>
